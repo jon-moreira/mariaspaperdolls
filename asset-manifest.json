@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.55a80fb3.chunk.css",
-    "main.js": "/static/js/main.c6650d5d.chunk.js",
-    "main.js.map": "/static/js/main.c6650d5d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.87789b26.js",
-    "runtime-main.js.map": "/static/js/runtime-main.87789b26.js.map",
-    "static/css/2.21e26029.chunk.css": "/static/css/2.21e26029.chunk.css",
-    "static/js/2.a88adc75.chunk.js": "/static/js/2.a88adc75.chunk.js",
-    "static/js/2.a88adc75.chunk.js.map": "/static/js/2.a88adc75.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.21e26029.chunk.css.map": "/static/css/2.21e26029.chunk.css.map",
-    "static/css/main.55a80fb3.chunk.css.map": "/static/css/main.55a80fb3.chunk.css.map",
-    "static/js/2.a88adc75.chunk.js.LICENSE.txt": "/static/js/2.a88adc75.chunk.js.LICENSE.txt",
-    "static/media/loader.8a7354d4.svg": "/static/media/loader.8a7354d4.svg",
-    "static/media/logo.62ff7b95.svg": "/static/media/logo.62ff7b95.svg"
+    "main.css": "/mariaspaperdolls.com/static/css/main.55a80fb3.chunk.css",
+    "main.js": "/mariaspaperdolls.com/static/js/main.ba425a99.chunk.js",
+    "main.js.map": "/mariaspaperdolls.com/static/js/main.ba425a99.chunk.js.map",
+    "runtime-main.js": "/mariaspaperdolls.com/static/js/runtime-main.add0e8df.js",
+    "runtime-main.js.map": "/mariaspaperdolls.com/static/js/runtime-main.add0e8df.js.map",
+    "static/css/2.21e26029.chunk.css": "/mariaspaperdolls.com/static/css/2.21e26029.chunk.css",
+    "static/js/2.a88adc75.chunk.js": "/mariaspaperdolls.com/static/js/2.a88adc75.chunk.js",
+    "static/js/2.a88adc75.chunk.js.map": "/mariaspaperdolls.com/static/js/2.a88adc75.chunk.js.map",
+    "index.html": "/mariaspaperdolls.com/index.html",
+    "static/css/2.21e26029.chunk.css.map": "/mariaspaperdolls.com/static/css/2.21e26029.chunk.css.map",
+    "static/css/main.55a80fb3.chunk.css.map": "/mariaspaperdolls.com/static/css/main.55a80fb3.chunk.css.map",
+    "static/js/2.a88adc75.chunk.js.LICENSE.txt": "/mariaspaperdolls.com/static/js/2.a88adc75.chunk.js.LICENSE.txt",
+    "static/media/loader.8a7354d4.svg": "/mariaspaperdolls.com/static/media/loader.8a7354d4.svg",
+    "static/media/logo.62ff7b95.svg": "/mariaspaperdolls.com/static/media/logo.62ff7b95.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.87789b26.js",
+    "static/js/runtime-main.add0e8df.js",
     "static/css/2.21e26029.chunk.css",
     "static/js/2.a88adc75.chunk.js",
     "static/css/main.55a80fb3.chunk.css",
-    "static/js/main.c6650d5d.chunk.js"
+    "static/js/main.ba425a99.chunk.js"
   ]
 }
