@@ -1,7 +1,7 @@
 {
   "name": "maria-paperdolls-website",
   "version": "1.1.2",
-  "homepage": "https://jon-moreira.github.io/mariaspaperdolls.com",
+  "homepage": "https://jon-moreira.github.io/mariaspaperdolls",
   "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.35",
@@ -34,7 +34,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d build",
+    "deploy": "npm run build && cp build/index.html build/404.html && gh-pages -d build",
     "test": "react-scripts test",
     "extract:messages": "react-intl-cra 'src/**/*.{js,jsx}' -o 'src/i18n/messages/messages.json'",
     "manage:translations": "node ./translationRunner.js",

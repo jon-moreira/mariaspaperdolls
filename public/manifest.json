@@ -5,8 +5,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/mariaspaperdolls.com/",
-  "start_url": "/mariaspaperdolls.com/",
+  "scope": "/mariaspaperdolls/",
+  "start_url": "/mariaspaperdolls/",
   "icons": [
     {
       "src": "favicon.ico",
