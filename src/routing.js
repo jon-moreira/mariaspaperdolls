@@ -22,23 +22,10 @@ function Routing() {
         <Route exact path="/media" component={Wrapper(MediaPage)} />
         <Route exact path="/works/catalog" component={Wrapper(CatalogPage)} />
         <Route exact path="/works/creations" component={Wrapper(CatalogPage)} />
-        <Route
-          exact
-          path="/works/exhibitions"
-          component={Wrapper(CatalogPage)}
-        />
-        <Route
-          path="/works/catalog/:catalog"
-          component={Wrapper(CatalogItem)}
-        />
-        <Route
-          path="/works/creations/:creations"
-          component={Wrapper(CatalogItem)}
-        />
-        <Route
-          path="/works/exhibitions/:exhibitions"
-          component={Wrapper(CatalogItem)}
-        />
+        <Route exact path="/works/exhibitions" component={Wrapper(CatalogPage)} />
+        <Route exact path="/works/catalog/:catalog" component={Wrapper(CatalogItem)} />
+        <Route exact path="/works/creations/:creations" component={Wrapper(CatalogItem)} />
+        <Route exact path="/works/exhibitions/:exhibitions" component={Wrapper(CatalogItem)} />
         <Route component={NotFound} path="*" status={404} />
       </Switch>
     </BrowserRouter>

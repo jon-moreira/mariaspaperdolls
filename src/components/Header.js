@@ -48,11 +48,15 @@ const Header = () => {
 
   useEffect(() => {
     // add active class to header link by current url
-    document
-      .querySelectorAll(
-        'a[href^="/' + window.location.pathname.split("/")[1] + '"]'
-      )[0]
-      .classList.add("active");
+    const firstSegment = window.location.pathname.split("/")[1];
+    if (firstSegment) {
+      const activeLink = document.querySelectorAll(
+        'a[href^="/' + firstSegment + '"]'
+      )[0];
+      if (activeLink) {
+        activeLink.classList.add("active");
+      }
+    }
 
     // Add event listener
     window.addEventListener("resize", handleResize);
