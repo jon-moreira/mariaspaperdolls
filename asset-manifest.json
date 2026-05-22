@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mariaspaperdolls/static/css/main.f5091bca.chunk.css",
-    "main.js": "/mariaspaperdolls/static/js/main.8c553b5a.chunk.js",
-    "main.js.map": "/mariaspaperdolls/static/js/main.8c553b5a.chunk.js.map",
+    "main.js": "/mariaspaperdolls/static/js/main.c1d8416f.chunk.js",
+    "main.js.map": "/mariaspaperdolls/static/js/main.c1d8416f.chunk.js.map",
     "runtime-main.js": "/mariaspaperdolls/static/js/runtime-main.212e477e.js",
     "runtime-main.js.map": "/mariaspaperdolls/static/js/runtime-main.212e477e.js.map",
     "static/css/2.21e26029.chunk.css": "/mariaspaperdolls/static/css/2.21e26029.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.21e26029.chunk.css",
     "static/js/2.7607c8e5.chunk.js",
     "static/css/main.f5091bca.chunk.css",
-    "static/js/main.8c553b5a.chunk.js"
+    "static/js/main.c1d8416f.chunk.js"
   ]
 }
