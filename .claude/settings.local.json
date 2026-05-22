@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git ls-tree *)",
+      "Bash(npm --version)",
+      "Bash(NODE_OPTIONS=--openssl-legacy-provider CI=false yarn build)"
+    ]
+  }
+}
